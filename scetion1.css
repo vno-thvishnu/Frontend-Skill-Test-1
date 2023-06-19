@@ -186,6 +186,10 @@ h6 {
     border-radius: 5vw;
     padding: 2vw;
   }
+.button_type > p {
+  font-size: 3vw;
+
+}
 
   .background_image > .bg_picture {
     width: 60vw;
